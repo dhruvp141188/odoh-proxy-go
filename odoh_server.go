@@ -42,7 +42,7 @@ const (
 
 	// HTTP constants. Fill in your proxy and target here.
 	defaultPort    = "8080"
-	proxyURI       = "http://penguin"
+	proxyURI       = "http://localhost"
 	queryEndpoint  = "/proxy"
 	healthEndpoint = "/health"
 	configEndpoint = "/.well-known/odohconfigs"
